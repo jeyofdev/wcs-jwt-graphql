@@ -1,0 +1,10 @@
+.danger {
+    display: block;
+    padding: 1rem;
+    background-color: #f8d7da;
+    color: #a82934;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+    max-width: 500px;
+    font-weight: normal;
+}
